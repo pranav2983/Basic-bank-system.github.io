@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/13/12/38/bitcoin-3396302_960_720.jpg");
+    background-color: hsl(168, 14%, 93%);
+}
+/* navbar css starts here  */
+.bg-light{
+    background-color: #0a0f09!important;
+}
+td{
+    background-color: lightskyblue;
+    color: black;
+}
+
+tr{
+    color: white;
+    background-color:white;
+}
+.navbar-brand{
+    font-family: cursive;
+    font-size: 1.5rem;
+    color: #f9fbfdfb!important;
+}
+
+.nav-link{
+    color: #fdfbfb!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #dd1515;
+}
+/* navbar css ends here  */
+
+.my-info{
+    margin: 1rem;
+    padding: 5rem 10rem 0rem 42rem;
+    color: white;
+    box-sizing: content-box;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(124, 209, 248)!important;
+    color: rgb(22, 17, 17)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(167, 245, 137)!important;
+}
